@@ -1,2 +1,2 @@
-# Informatics-project-week-3
-Informatics project week 3
+# Informatics-homework-week-3
+Informatics homework week 3
